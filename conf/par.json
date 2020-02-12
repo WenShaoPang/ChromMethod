@@ -1,0 +1,17 @@
+{
+    "Sampling Frequency": 200,
+    "Smooth_Filter": {
+        "Bunching Point": 1,
+        "Window Length": 5
+    },
+    "Detrand": 10000.0,
+    "Differential": {
+        "Window Length": 5
+    },
+    "Peak_Detection": {
+        "Threshold Rate": 8.0,
+        "Peaks Search Offset": 10.0,
+        "MAX_TIME_WIDTH": 0.1,
+        "MIN_PEAK_INTERVAL": 0.2
+    }
+}
